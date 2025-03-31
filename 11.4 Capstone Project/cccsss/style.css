@@ -1,0 +1,20 @@
+.header {
+    background-color:#EAD196;
+    color:#7D0A0A;
+    font-family:"roboto slab"
+    
+}
+
+.show {
+    font-weight: 600;
+}
+
+.process {
+    background-color:#EAD196;
+    font-family:"roboto slab"
+}
+
+.card-text {
+    color:#7D0A0A;
+    background-color:whitesmoke ;
+}
